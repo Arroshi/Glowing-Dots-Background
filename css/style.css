@@ -38,9 +38,9 @@ span::before {
     left: 0;
     width: 80%;
     height: 80%;
-    background-color: red;
+    background-color: black;
     transform: scale(0.1);
-    box-shadow: 0 0 10px red, 0 0 20px red, 0 0 40px red, 0 0 60px red, 0 0 80px red, 0 0 100px red;
+    box-shadow: 0 0 10px #ffffff, 0 0 20px #ff0000, 0 0 40px #ff0000, 0 0 60px #4a4a4a, 0 0 80px #5a5a5a, 0 0 100px #6a6a6a;
     border-radius: 50%;
     pointer-events: none;
     transition: 2s;
