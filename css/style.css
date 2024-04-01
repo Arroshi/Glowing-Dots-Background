@@ -31,7 +31,9 @@ span {
     position: relative;
     width: 40px;
     height: 40px;
-    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 span::before {
